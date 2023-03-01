@@ -11,5 +11,5 @@ userdefaults, core-data, realm을 각각 사용하여서 구현하였고, 확실
 ----
 실행영상
 
-<img src = "https://user-images.githubusercontent.com/112225610/222104890-f809c69c-4048-4ccd-afed-3e2c9ca5ae03.gif" width = "30%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/112225610/222137177-9253b4e1-eeb3-4111-9c0c-5984e6b4f39a.gif" width = "30%" height = "50%">
 
